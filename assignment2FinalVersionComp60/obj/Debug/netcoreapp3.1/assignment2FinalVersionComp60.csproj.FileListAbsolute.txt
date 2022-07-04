@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.Form1.resources
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.Properties.Resources.resources
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.AssemblyInfo.cs
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.exe
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.deps.json
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.runtimeconfig.json
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.runtimeconfig.dev.json
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.dll
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\bin\Debug\netcoreapp3.1\assignment2FinalVersionComp60.pdb
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.dll
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.pdb
+C:\Users\user\source\repos\SecondSemesterComp60\assignment2FinalVersionComp60\obj\Debug\netcoreapp3.1\assignment2FinalVersionComp60.genruntimeconfig.cache

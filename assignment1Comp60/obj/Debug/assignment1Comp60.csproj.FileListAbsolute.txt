@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\bin\Debug\assignment1Comp60.exe.config
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\bin\Debug\assignment1Comp60.exe
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\bin\Debug\assignment1Comp60.pdb
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\obj\Debug\assignment1Comp60.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\obj\Debug\assignment1Comp60.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\obj\Debug\assignment1Comp60.exe
+C:\Users\user\source\repos\SecondSemesterComp60\assignment1Comp60\obj\Debug\assignment1Comp60.pdb
